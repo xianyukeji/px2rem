@@ -1,8 +1,8 @@
-# xianyukeji/px2rem
+# xianyukeji-px2rem
 
 ## About this version
 
-- This xianyukeji/px2rem is a preview version of px2rem, used in advance to use some new features that were not received by the original px2rem author and maintained by the xianyukeji team
+- This xianyukeji-px2rem is a preview version of px2rem, used in advance to use some new features that were not received by the original px2rem author and maintained by the xianyukeji team
 - The original px2rem was last updated two years ago
 
 ### New features

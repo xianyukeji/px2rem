@@ -1,5 +1,5 @@
 {
-  "name": "xianyukeji/px2rem",
+  "name": "xianyukeji-px2rem",
   "description": "According to one stylesheet, generate rem version and @1x, @2x and @3x stylesheet",
   "version": "0.6.0",
   "homepage": "https://github.com/xianyukeji/px2rem",

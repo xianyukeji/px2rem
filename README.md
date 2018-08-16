@@ -7,6 +7,10 @@
 
 ### New features
 
+#### Version 0.6.3
+
+- add `config.rem2em` for replace 'rem' to 'em'
+
 #### Version 0.6.0
 
 - [Add feature for reset rem with media query and property.](https://github.com/songsiqi/px2rem/pull/22)

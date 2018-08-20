@@ -7,6 +7,10 @@
 
 ### New features
 
+#### Version 0.6.4
+
+- add `config.noRsComment`, `/* nors */` for disable reset rem.
+
 #### Version 0.6.3
 
 - add `config.rem2em` for replace 'rem' to 'em'
